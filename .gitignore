@@ -1,0 +1,8 @@
+generated/*
+data/*
+node_modules
+# exception to the rule
+!generated/.gitkeep 
+# exception to the rule
+!data/.gitkeep 
+.env
